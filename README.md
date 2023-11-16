@@ -1,6 +1,54 @@
-- HyperX
-- C, C², C++, C#, CSS, HTML, JS, TS, Swift
-<p align="left"> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a> </p>
+# VimEnthusiast
+
+This Is The RedME of my profile
+
+## Table of Contents
+
+1. Introduction
+2. Technologies
+3. Setup
+4. Features
+5. Status
+6. Inspiration
+7. Contact
+
+## Introduction
+
+Detailed project introduction goes here. You can add as much detail as you want, such as your motivations for the project, the problem it solves, etc.
+
+## Technologies
+
+List of technologies used within the project:
+* Technology 1
+* Technology 2
+* Technology 3
+
+## Setup
+
+Describe how to install / setup your local environment / add link to demo version.
+
+## Features
+
+List of features ready and TODOs for future development
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
+
+To-do list:
+* Wow improvement to be done in the future
+
+## Status
+
+Project is: _in progress_, _finished_, _no longer continued_ and why?
+
+## Inspiration
+
+Add here credits. Project inspired by..., based on...
+
+## Contact
+
+Created by [@yourhandle] - feel free to contact me!
+
 <!---
 CD-ELECTRONICS/CD-ELECTRONICS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
