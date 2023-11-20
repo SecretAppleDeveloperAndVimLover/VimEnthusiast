@@ -1,6 +1,6 @@
 # VimEnthusiast
 
-This Is The RedME of my profile
+I'm An Arch User By The Way!
 
 ## Technologies
 
