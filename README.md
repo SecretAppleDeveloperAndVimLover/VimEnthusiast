@@ -1,5 +1,5 @@
 # VimEnthusiast
-[Header Image](https://raw.githubusercontent.com/wei/wei/master/assets/images/header.png)
+![Header Image](https://raw.githubusercontent.com/wei/wei/master/assets/images/header.png)
 
 ![VimEnthusiast GitHub stats](https://github-readme-stats.vercel.app/api?username=vimenthusiast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&rank_icon=github)
 
