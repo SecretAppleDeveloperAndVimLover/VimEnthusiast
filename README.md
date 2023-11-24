@@ -12,6 +12,7 @@ List of technologies used within the projects:
 * Docker
 
 ![VimEnthusiast GitHub stats](https://github-readme-stats.vercel.app/api?username=vimenthusiast&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimenthusiast&show_icons=true&theme=dark)
 <!---
 CD-ELECTRONICS/CD-ELECTRONICS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
